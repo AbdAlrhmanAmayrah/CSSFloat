@@ -1,0 +1,30 @@
+.main{
+
+    text-align: center;
+
+    background-color: palegreen;
+
+
+
+}
+
+.abd{
+
+    float: left;
+    width: 33.3%;
+}
+
+.par{
+
+    display: inline-block;
+    width: 50%;
+
+
+}
+
+
+
+.ss{
+
+    clear: left;
+}
